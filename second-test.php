@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "edit by Noe" ?>
+    <?php echo "edit by Noe 2 " ?>
 </body>
 </html>
