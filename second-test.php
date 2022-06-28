@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Second test edit from github" ?>
+    <?php echo "Second test edit from desktop" ?>
 </body>
 </html>
