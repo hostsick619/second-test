@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Second test" ?>
+    <?php echo "Second test 1" ?>
 </body>
 </html>
